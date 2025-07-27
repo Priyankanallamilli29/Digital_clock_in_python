@@ -9,11 +9,7 @@ A Digital Clock in Python is a simple GUI-based project that displays the curren
 
 
 
-Output
---------
-Once you run the code, it will render the output similar to what shown below;
 
-![digital_clock](https://user-images.githubusercontent.com/77124662/130321144-3776737b-dc39-4914-b19b-081aed8906b8.PNG)
 
 
 
